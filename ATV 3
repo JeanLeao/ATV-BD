@@ -28,8 +28,6 @@ DELIMITER ;
 
 SELECT cadastroaluno(Null, '2002-04-10', 60, 8, 'jeanleao', 'jeanc.leaosantos@gmail.com') AS Nome_do_Aluno;
 
-/*---------------------------------------------------*/
-
 /*PERGUNTA 2*/
 
 DELIMITER //
@@ -46,8 +44,6 @@ END//
 DELIMITER ;
 
 CALL acumulaaaaa();
-
-/*-------------------------------------------------------*/
 
 /*PERGUNTA 3*/
 
